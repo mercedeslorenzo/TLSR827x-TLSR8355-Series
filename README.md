@@ -52,7 +52,7 @@ Hardware Guideline
 
 
 
-← [View the Project on GitHub](https://github.com/TelinkGithub/TLSR8x5x-Family "Menu")
+← [View the Project on GitHub](https://github.com/TelinkGithub/TLSR827x-TLSR8355-Series)
 
 
 ![header-telink](https://i.imgur.com/7U96dR0.jpg)
